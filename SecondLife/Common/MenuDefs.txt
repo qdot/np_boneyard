@@ -1,0 +1,28 @@
+MENU DEFAULT
+TEXT ~ Main Menu ~\nSelect a function
+TOMENU SETTITLE Set title
+OPTION Start vote
+TOMENU CLITEM Clear Item
+OPTIONASK Reset
+
+MENU SETTITLE
+TEXT Set title for which item?
+OPTION 1
+OPTION 2
+OPTION 3
+
+MENU CLITEM
+TEXT Clear title and picture for which item?
+OPTION 1
+OPTION 2
+OPTION 3
+
+MENU INVOTE
+TEXT Voting in progress...
+OPTIONASK Clear votes
+OPTIONASK Close voting
+
+MENU VOTEDONE
+TEXT Vote closed
+OPTIONASK Restart voting
+OPTION Tell results

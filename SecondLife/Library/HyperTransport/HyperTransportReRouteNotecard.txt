@@ -1,0 +1,19 @@
+#This list contains a collection of empty sims and routes to take to avoid them
+#Format:
+#World X Coordinates,WorldY Coordinates, North Entry Route, South Entry Route, West Entry Route, East Entry Route
+#DON'T EDIT THIS LIST UNLESS YOU KNOW WHAT YOU ARE DOING!!!!!!!!!!!
+253696, 254976.00000, 258048, 260096, brown;argent, andraca;garuda,  tecta, tecta
+255232, 257024, 258304, 259584, purple;oculea, oculea;purple, (unknown), (unknown)
+254464, 255744, 256768, 257536, clara;mocha, mocha;clara, (unknown), (unknown)
+257536, 259072, 257536, 259072,  ambat;cecropia, cecropia;ambat, ambat;jarawa, jarawa;ambat
+259328, 260352, 258304, 259072, jarawa;ambat;cecropia, cecropia;ambat;jarawa, (unknown), atis;sakai
+260864, 261376, 256256, 257024, selby;tharu, tharu;selby, selby;muirhead, muirhead;selby
+260864, 261376, 257280, 258048, tharu;dusun, dusun;tharu, selby;hardknott;alston, hardknott;selby;mare
+261632, 262400, 257536, 258048, (unknown), (unknown), (unknown), hardknott;selby;igbo
+254464, 254976, 255232, 256000,  (unknown), (unknown), sistiana;morris, morris;sistiana
+258048, 260096, 251392, 251904, (unknown), (unknown), wilmot;hazeltine, (unknown)
+260864, 261120, 252672, 252928, steiger;avery, avery;steiger, (unknown), belleville;avery
+261376, 261632, 252672, 252928, (unknown), hamlin, hamlin, (unknown)
+261376, 261632, 252160, 252416, hamlin, (unknown), horseshoe, bonga;honawan
+261888, 262144, 252160, 252416, (unknown), chief, chief, healy;chief
+261888, 262144, 251648, 251904, (unknown), tompson;alcona, (unknown), cochran;alcona

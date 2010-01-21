@@ -1,0 +1,37 @@
+HyperTeleporter
+by Hank Ramos
+Version 1.4.2
+============
+This attachment provides *Automatic* HyperTeleportation to your destination simply by providing a sim name or exact coordinates. (Even drag-and-drop landmarks)
+
+HyperTeleportation
+----------------------------
+To have the pack automatically "transport" you to your destination, simply say "teleport simname". Example, to goto the center of the sim named "Clara", just say: teleport Clara
+
+To goto "Clara (55,75)" just say: teleport Clara,55,75
+
+Click the GPS HyperTeleporter and select the "LANDMARK" option.  Then you'll be able to drag-and-drop a landmark file onto the GPS unit, and have it take you to your destination!!!!
+
+You will be transported from sim to sim until you reach your destination.  You can also program in waypoints to navigate to along your route as follows: teleport sim1;sim2;sim3,55,75.  This is useful for specifying a specific route of sims to go through to get to your destination.
+
+For  a list of options, just click the pack and navigate the options.  To restore the options, just click the RESET button in the menu.
+
+This automated transportation costs L$1 per destination you specify. It's free for those 60 days and younger!
+
+Verbal Commands
+-------------------
+All verbal commands are given on a private channel you specify by clicking the pack and selecting "Channel".  To speak on a private channel, type "/3 Hud On" to say "Hud On" on channel #3.
+Hud On
+Hud Off
+ghost
+noghost
+Abort (or Stop)
+Reset
+
+Notes
+------
+You cannot currently teleport from the mainland to islands as you cannot cross over empty sim blocks.  You can however move around islands and private mainlands using the pack, but you will not be able to move between disconnected islands and private mainlads.
+
+Why HyperTeleportation?  Well, if the world is having problems with regular teleports or your attachments make teleportation a big hassle, the only choice you have is to fly!  Travel in style using automatic transportation at HIGH SPEED, and get to your destination with little fuss! :D
+
+A world-wide script and object inventory update system will be released soon as well using HyperTeleportation technology.
