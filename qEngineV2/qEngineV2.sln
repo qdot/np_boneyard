@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qEngine", "qEngine\qEngine.vcproj", "{B9947794-2C1A-4288-AE14-A06C9C77671F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestEngine", "TestEngine\TestEngine.vcproj", "{B97539B8-E9E5-43B3-8C9D-82068E6CBFBA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B9947794-2C1A-4288-AE14-A06C9C77671F} = {B9947794-2C1A-4288-AE14-A06C9C77671F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B9947794-2C1A-4288-AE14-A06C9C77671F}.Debug.ActiveCfg = Debug|Win32
+		{B9947794-2C1A-4288-AE14-A06C9C77671F}.Debug.Build.0 = Debug|Win32
+		{B9947794-2C1A-4288-AE14-A06C9C77671F}.Release.ActiveCfg = Release|Win32
+		{B9947794-2C1A-4288-AE14-A06C9C77671F}.Release.Build.0 = Release|Win32
+		{B97539B8-E9E5-43B3-8C9D-82068E6CBFBA}.Debug.ActiveCfg = Debug|Win32
+		{B97539B8-E9E5-43B3-8C9D-82068E6CBFBA}.Debug.Build.0 = Debug|Win32
+		{B97539B8-E9E5-43B3-8C9D-82068E6CBFBA}.Release.ActiveCfg = Release|Win32
+		{B97539B8-E9E5-43B3-8C9D-82068E6CBFBA}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
